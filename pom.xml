@@ -51,5 +51,15 @@
 		</plugins>
 		<finalName>order-service</finalName>
 	</build>
+	<repository>
+  <id>wissem-ayadi</id>
+  <url>https://pkgs.dev.azure.com/wissem-ayadi/_packaging/wissem-ayadi/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
 
 </project>
